@@ -4,10 +4,10 @@ namespace AspNetCore.Configuration
     {
         public MyOption()
         {
-            Option1 = "From Ctor";
-            Option2 = -1;
+            Option = "From Ctor";
+            Key = "1";
         }
-        public string Option1 { get; set; }
-        public int Option2 { get; set; }
+        public string Option { get; set; }
+        public string Key { get; set; }
     }
 }

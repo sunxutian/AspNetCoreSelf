@@ -18,8 +18,8 @@ namespace AspNetCore.Controllers
         }
         public IActionResult Index()
         {
-            var option1 = _myOption.Option1;
-            var option2 = _myOption.Option2;
+            var option = _myOption.Option;
+            var key = _myOption.Key;
             return View();
         }
 
@@ -37,8 +37,10 @@ namespace AspNetCore.Controllers
             return View();
         }
 
-        public IActionResult Error()
+        [Route("/Error/{statusCode}")]
+        public IActionResult Error(string statusCode)
         {
+            ViewData["StatusCode"] = statusCode;
             return View();
         }
     }

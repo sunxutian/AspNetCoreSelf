@@ -46,7 +46,7 @@ namespace AspNetCore
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseStatusCodePagesWithRedirects("/Home/Error/{0}");
             }
 
             app.UseStaticFiles();
