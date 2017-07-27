@@ -1,0 +1,8 @@
+c:\AlexSun_MISC\Code\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.deps.json
+c:\AlexSun_MISC\Code\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.runtimeconfig.json
+c:\AlexSun_MISC\Code\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.runtimeconfig.dev.json
+c:\AlexSun_MISC\Code\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.dll
+c:\AlexSun_MISC\Code\AspNetCore\bin\Debug\netcoreapp1.1\AspNetCore.pdb
+c:\AlexSun_MISC\Code\AspNetCore\obj\Debug\netcoreapp1.1\AspNetCore.AssemblyInfo.cs
+c:\AlexSun_MISC\Code\AspNetCore\obj\Debug\netcoreapp1.1\AspNetCore.dll
+c:\AlexSun_MISC\Code\AspNetCore\obj\Debug\netcoreapp1.1\AspNetCore.pdb
